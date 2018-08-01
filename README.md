@@ -1,1 +1,1 @@
-# SimpleRayTracing
+# 一个简单的光线追踪器
